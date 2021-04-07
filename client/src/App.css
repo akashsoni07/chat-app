@@ -1,0 +1,19 @@
+.card{
+    box-shadow:0 0 10px black;
+}
+h6{
+    background:indigo;
+    width:150px;
+    padding:4px;
+    text-align:center;
+    border-radius:3px;
+    color:white;
+}
+#you{
+    display:flex;
+    justify-content:flex-end;
+}
+#other{
+    display:flex;
+    justify-content:flex-start;
+}
